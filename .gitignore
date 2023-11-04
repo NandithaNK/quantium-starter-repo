@@ -1,6 +1,6 @@
 # Jetbrains
 .idea/
-.venv/
+.virtualenv/
 
 
 # Byte-compiled / optimized / DLL files
